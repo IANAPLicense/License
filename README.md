@@ -7,5 +7,5 @@ Feel free to send feedback to ianapl@protonmail.com
 
 Please Send translation with this file name :
 
-IANAPL <Version (V.#.#)> <Language ISO 639-3)
+IANAPL <Version (V.#.#)> <Language ISO 639-3>
 
